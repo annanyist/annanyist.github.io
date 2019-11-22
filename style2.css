@@ -1,0 +1,65 @@
+html{
+}
+body {background-image: url("kep15.jpg");
+	
+}
+.fejlec{
+	background-color: back;
+	
+	float: left;
+	width:100%;
+	
+	 
+}
+.felirat{
+	 color: white;
+	 padding: 100px 400px 120px;
+	 float: 90%;
+	 font-family: fantasy;
+	 text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	 font-size:35px;
+	
+}
+
+
+
+.navigation1{
+	display: inline-block;
+	background-color: rgba(193, 66, 66, 0.3);
+	font-size:15px;
+	text-shadow: none;
+	background-color: ;
+	margin:  0.5em 0;
+	
+	float: left;
+	
+    padding: 0;
+	
+	 font-family: Georgia, "Times New Roman",
+          Times, serif;
+	text-decoration: none ;
+	list-style-type: none;
+	}
+ul{
+	list-style-type: none;
+	overflow: hidden;
+}
+
+li {
+	float: left;
+	margin:0;
+	padding:0;
+	color: white;
+}
+
+li a{
+	display: block;
+	padding: 15px 15px;
+	text-align: center;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: #b0a2a8;
+}
+	

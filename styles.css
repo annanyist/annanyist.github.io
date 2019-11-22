@@ -1,0 +1,100 @@
+ html{
+}
+ body {background-image: url("kep15.jpg");
+	
+}
+.container{
+	width: 65%;
+	background-color: rgba(182, 103, 142, 0.2);;
+	margin: auto;
+	 
+}
+.fejlec{
+	background-color: black;
+
+	float: left;
+	width:100%;
+	
+	 
+}
+.felirat{
+	 color: white;
+	 padding: 1px 90px 1px;
+	 float: 50%;
+	  color: white;
+		
+}
+.test{
+ background-color: rgba(182, 103, 142, 0.2);
+ margin: auto;
+ width:80%;
+ 
+ 
+ 
+}
+.kep{
+	background-color: ;
+	
+	width: 60%;
+	float: left;
+}
+.szoveg{
+	
+	
+	
+	background-color:  ;
+	width: 95%;
+	float: right;
+	padding: 1px 61.5px 61px;
+}
+.kep2{
+	background-color: ;
+	float: bottom;
+	width:80%;
+	
+}
+.img{
+Max-width:100%;
+
+}
+
+	
+.navigation1{
+	display: inline-block;
+	
+	background-color: white;
+	margin:  0.5em 0;
+	border-right: 1em solid black;
+	float: left;
+	padding: 1%;
+    padding: 0;
+	
+	 font-family: Georgia, "Times New Roman",
+          Times, serif;
+	text-decoration: none ;
+	list-style-type: none;
+	}
+ul{
+	list-style-type: none;
+	overflow: hidden;
+}
+
+li {
+	float: left;
+	margin:0;
+	padding:0;
+}
+
+li a{
+	display: block;
+	padding: 10px 15px;
+	text-align: center;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: #b0a2a8;
+}
+	
+
+
